@@ -50,43 +50,28 @@ const Header = () => {
       <div className="main-menu-bar">
         <div className="container-menu-bar">
           <div className="menu-link">
-            <Link className="menu-link-href" to="./new">
-              NEW!
-            </Link>
-          </div>
-          <div className="menu-link">
             <Link className="menu-link-href" to="./clothing">
-              Clothing
+              Collections
             </Link>
           </div>
           <div className="menu-link">
-            <Link className="menu-link-href" to="./bath">
-              Bath
+            <Link className="menu-link-href" to="./product">
+              Home Food
             </Link>
           </div>
           <div className="menu-link">
-            <Link className="menu-link-href" to="./bedding">
-              Bedding
-            </Link>
-          </div>
-          <div className="menu-link">
-            <Link className="menu-link-href" to="./goods">
-              Home Goods
-            </Link>
-          </div>
-          <div className="menu-link">
-            <Link className="menu-link-href" to="./furniture">
-              Furniture
+            <Link className="menu-link-href" to="./reviews">
+              Our Customer's Reviews
             </Link>
           </div>
           <div className="menu-link">
             <Link className="menu-link-href" to="./footwear">
-              Footwear
+              About Us
             </Link>
           </div>
           <div className="menu-link">
             <Link className="menu-link-href" to="./accessories">
-              Accessories
+              Contact Us
             </Link>
           </div>
         </div>
