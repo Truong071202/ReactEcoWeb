@@ -1,6 +1,5 @@
 import React, { useState, useEffect } from "react";
-import ReactPaginate from "https://cdn.skypack.dev/react-paginate@7.1.3";
-
+import ReactPaginate from "react-paginate";
 const API_review = "https://jsonplaceholder.typicode.com/comments";
 
 const Reviewpage = () => {
