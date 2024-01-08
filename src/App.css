@@ -1081,6 +1081,13 @@
   text-decoration: none;
   color: #2c742f;
 }
+.review-paginate {
+  display: flex;
+  justify-content: center;
+  gap: 40px;
+  list-style: none;
+  margin-top: 20px;
+}
 
 .pagination__link:hover {
   text-decoration: underline;
@@ -1093,4 +1100,19 @@
 .review-list-rating-verify-purchase-wrap {
   display: flex;
   gap: 3px;
+}
+.box-card-collection {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between; /* Adjust as needed */
+}
+
+.card-information {
+  width: calc(33.33% - 10px); /* Adjust as needed */
+  margin-bottom: 20px; /* Adjust as needed */
+  box-sizing: border-box;
+}
+
+.link-coll-card {
+  all: unset;
 }

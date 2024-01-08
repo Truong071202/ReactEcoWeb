@@ -50,7 +50,7 @@ const Header = () => {
       <div className="main-menu-bar">
         <div className="container-menu-bar">
           <div className="menu-link">
-            <Link className="menu-link-href" to="./clothing">
+            <Link className="menu-link-href" to="./collection">
               Collections
             </Link>
           </div>
@@ -65,7 +65,7 @@ const Header = () => {
             </Link>
           </div>
           <div className="menu-link">
-            <Link className="menu-link-href" to="./footwear">
+            <Link className="menu-link-href" to="./about">
               About Us
             </Link>
           </div>

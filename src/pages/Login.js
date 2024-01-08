@@ -35,7 +35,7 @@ const Login = () => {
           toast.error("Registration failed. " + data.error);
         } else {
           toast.success("Registration successful!");
-          navigate("/home");
+          navigate("/");
         }
       } else {
         // Hiển thị thông báo lỗi nếu response không thành công
