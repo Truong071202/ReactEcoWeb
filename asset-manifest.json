@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/ReactEcoWeb/static/css/main.4fafb1fe.css",
-    "main.js": "/ReactEcoWeb/static/js/main.a925f024.js",
+    "main.css": "/ReactEcoWeb/static/css/main.1cf83b2a.css",
+    "main.js": "/ReactEcoWeb/static/js/main.fabe7913.js",
     "static/js/787.26023cf9.chunk.js": "/ReactEcoWeb/static/js/787.26023cf9.chunk.js",
     "static/media/image 1004.png": "/ReactEcoWeb/static/media/image 1004.eafc8f22983f105b3922.png",
     "static/media/Product Image.png": "/ReactEcoWeb/static/media/Product Image.0660df5e784b1a824045.png",
@@ -47,18 +47,18 @@
     "static/media/twitter 1.svg": "/ReactEcoWeb/static/media/twitter 1.adf4224c271b8b9ac01a47ead5c3ed6d.svg",
     "static/media/Star 1.svg": "/ReactEcoWeb/static/media/Star 1.2e75daf985c06a310867abd347d5eb34.svg",
     "static/media/pinterest 1.svg": "/ReactEcoWeb/static/media/pinterest 1.e5592c2d586ef45585af94c9f5a41153.svg",
-    "index.html": "/ReactEcoWeb/index.html",
     "static/media/search.svg": "/ReactEcoWeb/static/media/search.bda4578745d1bcb0b34388fae29642a7.svg",
+    "index.html": "/ReactEcoWeb/index.html",
     "static/media/arrow-left.svg": "/ReactEcoWeb/static/media/arrow-left.dee0d27fdaa0f1b8277112a4d5af0a94.svg",
     "static/media/arrow-right.svg": "/ReactEcoWeb/static/media/arrow-right.c42a0db65113a645a4b26c1a9c7c8bce.svg",
     "static/media/Capa 2 (1).svg": "/ReactEcoWeb/static/media/Capa 2 (1).0e0b752f5dd802564648482c20db9794.svg",
     "static/media/check 1.svg": "/ReactEcoWeb/static/media/check 1.5940042797cc755d73ae1aa0a9fb9271.svg",
-    "main.4fafb1fe.css.map": "/ReactEcoWeb/static/css/main.4fafb1fe.css.map",
-    "main.a925f024.js.map": "/ReactEcoWeb/static/js/main.a925f024.js.map",
+    "main.1cf83b2a.css.map": "/ReactEcoWeb/static/css/main.1cf83b2a.css.map",
+    "main.fabe7913.js.map": "/ReactEcoWeb/static/js/main.fabe7913.js.map",
     "787.26023cf9.chunk.js.map": "/ReactEcoWeb/static/js/787.26023cf9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4fafb1fe.css",
-    "static/js/main.a925f024.js"
+    "static/css/main.1cf83b2a.css",
+    "static/js/main.fabe7913.js"
   ]
 }
