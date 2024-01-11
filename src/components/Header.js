@@ -70,7 +70,7 @@ const Header = () => {
             </Link>
           </div>
           <div className="menu-link">
-            <Link className="menu-link-href" to="./accessories">
+            <Link className="menu-link-href" to="./contact">
               Contact Us
             </Link>
           </div>

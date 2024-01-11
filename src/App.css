@@ -1116,3 +1116,13 @@
 .link-coll-card {
   all: unset;
 }
+
+.input-group {
+  flex-wrap: unset !important;
+  width: 50% !important;
+}
+
+.form-contact-page {
+  display: grid;
+  justify-items: center;
+}
